@@ -39,7 +39,7 @@ After these three steps, you can quickly realize the image text style transfer. 
 <a name="Preparation"></a>
 #### Preparation
 
-1. Please refer the [QUICK INSTALLATION](../doc/doc_en/installation_en.md) to install PaddlePaddle. Python3 environment is strongly recommended.
+1. Please refer the [Quick Start](https://www.paddlepaddle.org.cn/en/install/quick?) to install PaddlePaddle. Python3 environment is strongly recommended.
 2. Download the pretrained models and unzip:
 
 ```bash
