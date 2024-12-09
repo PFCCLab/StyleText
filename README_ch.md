@@ -32,7 +32,7 @@ Style-Text数据合成工具是基于百度和华科合作研发的文本编辑�
 <a name="环境配置"></a>
 ### 二、环境配置
 
-1. 参考[快速安装](../doc/doc_ch/installation.md)，安装PaddleOCR。
+1. 参考[快速安装](https://www.paddlepaddle.org.cn/install/quick?)，安装PaddleOCR。
 2. 进入`StyleText`目录，下载模型，并解压：
 
 ```bash
